@@ -1,5 +1,61 @@
 [
   {
+    "state": "Alabama",
+    "slug": "alabama",
+    "official_name": "Alabama Law Enforcement Agency",
+    "official_url": "https://www.alea.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/alabama-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/alabama/",
+    "description": "Alabama driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Alaska",
+    "slug": "alaska",
+    "official_name": "Alaska Division of Motor Vehicles",
+    "official_url": "https://dmv.alaska.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/alaska/",
+    "description": "Alaska driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Arizona",
+    "slug": "arizona",
+    "official_name": "Arizona Department of Transportation Motor Vehicle Division",
+    "official_url": "https://azdot.gov/mvd",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/arizona/",
+    "description": "Arizona driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "official_name": "Arkansas Department of Finance and Administration",
+    "official_url": "https://www.dfa.arkansas.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/arkansas/",
+    "description": "Arkansas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
     "state": "California",
     "slug": "california",
     "official_name": "California DMV",
@@ -7,23 +63,53 @@
     "wordpress_guides": {
       "renewal": "https://dmvguides.wordpress.com/2026/06/21/california-drivers-license-renewal-2026-complete-guide/",
       "real_id": "https://dmvguides.wordpress.com/2026/06/21/california-real-id-requirements-2026-46-fee-document-checklist/",
-      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-california-drivers-license-replace-it-for-37-2026/"
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-california-drivers-license-replace-it-for-37-2026/",
+      "registration": ""
     },
     "dmvverify_url": "https://dmvverify.com/california/",
-    "description": "California driver license renewal, REAL ID, replacement, and DMV resources."
+    "description": "California driver license renewal, REAL ID, replacement, registration, and official DMV resources."
   },
   {
-    "state": "Texas",
-    "slug": "texas",
-    "official_name": "Texas Department of Public Safety",
-    "official_url": "https://www.dps.texas.gov/",
+    "state": "Colorado",
+    "slug": "colorado",
+    "official_name": "Colorado Division of Motor Vehicles",
+    "official_url": "https://dmv.colorado.gov/",
     "wordpress_guides": {
-      "renewal": "https://dmvguides.wordpress.com/2026/06/21/texas-drivers-license-renewal-2026-complete-guide/",
-      "real_id": "https://dmvguides.wordpress.com/2026/06/21/texas-real-id-requirements-2026-33-fee-document-checklist/",
-      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-texas-drivers-license-replace-it-for-11-2026/"
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/colorado-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
     },
-    "dmvverify_url": "https://dmvverify.com/texas/",
-    "description": "Texas driver license renewal, REAL ID, replacement, and DPS resources."
+    "dmvverify_url": "https://dmvverify.com/colorado/",
+    "description": "Colorado driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "official_name": "Connecticut DMV",
+    "official_url": "https://portal.ct.gov/dmv",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/connecticut-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/connecticut/",
+    "description": "Connecticut driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Delaware",
+    "slug": "delaware",
+    "official_name": "Delaware Division of Motor Vehicles",
+    "official_url": "https://dmv.de.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/delaware/",
+    "description": "Delaware driver license renewal, REAL ID, replacement, registration, and official DMV resources."
   },
   {
     "state": "Florida",
@@ -33,9 +119,598 @@
     "wordpress_guides": {
       "renewal": "https://dmvguides.wordpress.com/2026/06/21/florida-drivers-license-renewal-2026-complete-guide/",
       "real_id": "https://dmvguides.wordpress.com/2026/06/21/florida-real-id-requirements-2026-48-fee-document-checklist/",
-      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-florida-drivers-license-replace-it-for-25-2026/"
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-florida-drivers-license-replace-it-for-25-2026/",
+      "registration": ""
     },
     "dmvverify_url": "https://dmvverify.com/florida/",
-    "description": "Florida driver license renewal, REAL ID, replacement, and FLHSMV resources."
+    "description": "Florida driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Georgia",
+    "slug": "georgia",
+    "official_name": "Georgia Department of Driver Services",
+    "official_url": "https://dds.georgia.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/georgia-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/georgia/",
+    "description": "Georgia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "official_name": "Hawaii Driver Licensing",
+    "official_url": "https://hidot.hawaii.gov/highways/library/motor-vehicle-safety-office/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/hawaii/",
+    "description": "Hawaii driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "official_name": "Idaho Transportation Department DMV",
+    "official_url": "https://itd.idaho.gov/itddmv/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/idaho/",
+    "description": "Idaho driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Illinois",
+    "slug": "illinois",
+    "official_name": "Illinois Secretary of State",
+    "official_url": "https://www.ilsos.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/illinois-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/illinois-real-id-requirements-2026-30-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-illinois-drivers-license-replace-it-for-5-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/illinois/",
+    "description": "Illinois driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "official_name": "Indiana Bureau of Motor Vehicles",
+    "official_url": "https://www.in.gov/bmv/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/indiana-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/indiana/",
+    "description": "Indiana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "official_name": "Iowa Department of Transportation",
+    "official_url": "https://iowadot.gov/mvd",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/iowa/",
+    "description": "Iowa driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "official_name": "Kansas Department of Revenue Division of Vehicles",
+    "official_url": "https://www.ksrevenue.gov/dovindex.html",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/kansas/",
+    "description": "Kansas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "official_name": "Kentucky Transportation Cabinet Driver Licensing",
+    "official_url": "https://drive.ky.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/kentucky-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/kentucky/",
+    "description": "Kentucky driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "official_name": "Louisiana Office of Motor Vehicles",
+    "official_url": "https://www.expresslane.org/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/louisiana-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/louisiana/",
+    "description": "Louisiana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Maine",
+    "slug": "maine",
+    "official_name": "Maine Bureau of Motor Vehicles",
+    "official_url": "https://www.maine.gov/sos/bmv/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/maine/",
+    "description": "Maine driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Maryland",
+    "slug": "maryland",
+    "official_name": "Maryland Motor Vehicle Administration",
+    "official_url": "https://mva.maryland.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/maryland-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/maryland/",
+    "description": "Maryland driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "official_name": "Massachusetts Registry of Motor Vehicles",
+    "official_url": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/massachusetts-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/massachusetts-real-id-requirements-2026-50-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-massachusetts-drivers-license-replace-it-for-25-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/massachusetts/",
+    "description": "Massachusetts driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Michigan",
+    "slug": "michigan",
+    "official_name": "Michigan Secretary of State",
+    "official_url": "https://www.michigan.gov/sos",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/michigan-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/michigan-real-id-requirements-2026-18-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-michigan-drivers-license-replace-it-for-9-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/michigan/",
+    "description": "Michigan driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "official_name": "Minnesota Driver and Vehicle Services",
+    "official_url": "https://dps.mn.gov/divisions/dvs",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/minnesota-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/minnesota/",
+    "description": "Minnesota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "official_name": "Mississippi Department of Public Safety",
+    "official_url": "https://www.dps.ms.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/mississippi/",
+    "description": "Mississippi driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "official_name": "Missouri Department of Revenue Motor Vehicle and Driver Licensing",
+    "official_url": "https://dor.mo.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/missouri-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/missouri/",
+    "description": "Missouri driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Montana",
+    "slug": "montana",
+    "official_name": "Montana Motor Vehicle Division",
+    "official_url": "https://dojmt.gov/driving/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/montana/",
+    "description": "Montana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "official_name": "Nebraska Department of Motor Vehicles",
+    "official_url": "https://dmv.nebraska.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/nebraska/",
+    "description": "Nebraska driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "official_name": "Nevada Department of Motor Vehicles",
+    "official_url": "https://dmv.nv.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/nevada-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/nevada/",
+    "description": "Nevada driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Hampshire",
+    "slug": "new-hampshire",
+    "official_name": "New Hampshire Division of Motor Vehicles",
+    "official_url": "https://www.dmv.nh.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/new-hampshire/",
+    "description": "New Hampshire driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Jersey",
+    "slug": "new-jersey",
+    "official_name": "New Jersey Motor Vehicle Commission",
+    "official_url": "https://www.nj.gov/mvc/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/new-jersey-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/new-jersey-real-id-requirements-2026-24-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-new-jersey-drivers-license-replace-it-for-11-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/new-jersey/",
+    "description": "New Jersey driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "official_name": "New Mexico Motor Vehicle Division",
+    "official_url": "https://www.mvd.newmexico.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/new-mexico/",
+    "description": "New Mexico driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New York",
+    "slug": "new-york",
+    "official_name": "New York DMV",
+    "official_url": "https://dmv.ny.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/new-york-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/new-york-real-id-requirements-2026-64-50-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-new-york-drivers-license-replace-it-for-17-50-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/new-york/",
+    "description": "New York driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "official_name": "North Carolina Division of Motor Vehicles",
+    "official_url": "https://www.ncdot.gov/dmv/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/north-carolina-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/north-carolina/",
+    "description": "North Carolina driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "official_name": "North Dakota Department of Transportation",
+    "official_url": "https://www.dot.nd.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/north-dakota/",
+    "description": "North Dakota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "official_name": "Ohio Bureau of Motor Vehicles",
+    "official_url": "https://www.bmv.ohio.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/ohio-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/ohio-real-id-requirements-2026-25-75-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-ohio-drivers-license-replace-it-for-9-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/ohio/",
+    "description": "Ohio driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "official_name": "Service Oklahoma",
+    "official_url": "https://service.ok.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/oklahoma-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/oklahoma/",
+    "description": "Oklahoma driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Oregon",
+    "slug": "oregon",
+    "official_name": "Oregon DMV",
+    "official_url": "https://www.oregon.gov/odot/dmv/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/oregon-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/oregon/",
+    "description": "Oregon driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "official_name": "Pennsylvania Department of Transportation Driver and Vehicle Services",
+    "official_url": "https://www.dmv.pa.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/pennsylvania-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/pennsylvania-real-id-requirements-2026-30-50-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-pennsylvania-drivers-license-replace-it-for-13-50-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/pennsylvania/",
+    "description": "Pennsylvania driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "official_name": "Rhode Island Division of Motor Vehicles",
+    "official_url": "https://dmv.ri.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/rhode-island/",
+    "description": "Rhode Island driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "official_name": "South Carolina Department of Motor Vehicles",
+    "official_url": "https://www.scdmvonline.com/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/south-carolina-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/south-carolina/",
+    "description": "South Carolina driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "official_name": "South Dakota Driver Licensing",
+    "official_url": "https://dps.sd.gov/driver-licensing",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/south-dakota/",
+    "description": "South Dakota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "official_name": "Tennessee Driver Services",
+    "official_url": "https://www.tn.gov/safety/driver-services.html",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/tennessee-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/tennessee/",
+    "description": "Tennessee driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "official_name": "Texas Department of Public Safety",
+    "official_url": "https://www.dps.texas.gov/section/driver-license",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/texas-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/texas-real-id-requirements-2026-33-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-texas-drivers-license-replace-it-for-11-2026/",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/texas/",
+    "description": "Texas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "official_name": "Utah Driver License Division",
+    "official_url": "https://dld.utah.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/utah-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/utah/",
+    "description": "Utah driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Vermont",
+    "slug": "vermont",
+    "official_name": "Vermont Department of Motor Vehicles",
+    "official_url": "https://dmv.vermont.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/vermont/",
+    "description": "Vermont driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "official_name": "Virginia Department of Motor Vehicles",
+    "official_url": "https://www.dmv.virginia.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/virginia-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/virginia/",
+    "description": "Virginia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Washington",
+    "slug": "washington",
+    "official_name": "Washington State Department of Licensing",
+    "official_url": "https://dol.wa.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/washington-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/washington/",
+    "description": "Washington driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "official_name": "West Virginia Division of Motor Vehicles",
+    "official_url": "https://transportation.wv.gov/DMV/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/west-virginia/",
+    "description": "West Virginia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "official_name": "Wisconsin Division of Motor Vehicles",
+    "official_url": "https://wisconsindot.gov/Pages/dmv/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/wisconsin-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/wisconsin/",
+    "description": "Wisconsin driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "official_name": "Wyoming Department of Transportation Driver Services",
+    "official_url": "https://www.dot.state.wy.us/home/driver_license_records.html",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/wyoming/",
+    "description": "Wyoming driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Washington DC",
+    "slug": "washington-dc",
+    "official_name": "District of Columbia DMV",
+    "official_url": "https://dmv.dc.gov/",
+    "wordpress_guides": {
+      "renewal": "",
+      "real_id": "",
+      "lost_license": "",
+      "registration": ""
+    },
+    "dmvverify_url": "https://dmvverify.com/washington-dc/",
+    "description": "Washington DC driver license renewal, REAL ID, replacement, registration, and official DMV resources."
   }
 ]
