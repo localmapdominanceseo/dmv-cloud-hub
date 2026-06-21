@@ -3,7 +3,7 @@ from pathlib import Path
 from html import escape
 from datetime import datetime
 
-BASE_URL = "https://dmvhub.pages.dev"
+BASE_URL = "https://dmv-cloud-hub.localmapdominanceseo.workers.dev"
 ROOT = Path(__file__).parent
 OUT = ROOT / "public"
 STATE_DIR = OUT / "state"
