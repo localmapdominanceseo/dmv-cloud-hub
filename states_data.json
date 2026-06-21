@@ -1,0 +1,41 @@
+[
+  {
+    "state": "California",
+    "slug": "california",
+    "official_name": "California DMV",
+    "official_url": "https://www.dmv.ca.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/california-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/california-real-id-requirements-2026-46-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-california-drivers-license-replace-it-for-37-2026/"
+    },
+    "dmvverify_url": "https://dmvverify.com/california/",
+    "description": "California driver license renewal, REAL ID, replacement, and DMV resources."
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "official_name": "Texas Department of Public Safety",
+    "official_url": "https://www.dps.texas.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/texas-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/texas-real-id-requirements-2026-33-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-texas-drivers-license-replace-it-for-11-2026/"
+    },
+    "dmvverify_url": "https://dmvverify.com/texas/",
+    "description": "Texas driver license renewal, REAL ID, replacement, and DPS resources."
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "official_name": "Florida Highway Safety and Motor Vehicles",
+    "official_url": "https://www.flhsmv.gov/",
+    "wordpress_guides": {
+      "renewal": "https://dmvguides.wordpress.com/2026/06/21/florida-drivers-license-renewal-2026-complete-guide/",
+      "real_id": "https://dmvguides.wordpress.com/2026/06/21/florida-real-id-requirements-2026-48-fee-document-checklist/",
+      "lost_license": "https://dmvguides.wordpress.com/2026/06/21/lost-your-florida-drivers-license-replace-it-for-25-2026/"
+    },
+    "dmvverify_url": "https://dmvverify.com/florida/",
+    "description": "Florida driver license renewal, REAL ID, replacement, and FLHSMV resources."
+  }
+]
