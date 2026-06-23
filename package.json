@@ -1,5 +1,1 @@
-{
-  "scripts": {
-    "build": "python generate.py"
-  }
-}
+{"scripts":{"build":"python generate.py"}}

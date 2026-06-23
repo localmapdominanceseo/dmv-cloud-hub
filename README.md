@@ -1,15 +1,5 @@
 # DMV Cloudflare Hub
 
-Ready-to-use static Cloudflare Pages hub.
-
-## Local build
-
-```bash
-python generate.py
-```
-
-## Cloudflare Pages settings
-
 Build command:
 
 ```bash
@@ -22,6 +12,4 @@ Output directory:
 public
 ```
 
-## Edit content
-
-Update `states_data.json`, then run the generator again.
+Important: `states_data.json` must stay in repo root beside `generate.py`.
