@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dmv-cloud-hub.dmvverifyy.workers.dev/sitemap.xml

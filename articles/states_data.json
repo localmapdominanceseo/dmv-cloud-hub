@@ -1,0 +1,410 @@
+[
+  {
+    "state": "Alabama",
+    "slug": "alabama",
+    "official_name": "Alabama Law Enforcement Agency",
+    "official_url": "https://www.alea.gov/",
+    "dmvverify_url": "https://dmvverify.com/alabama/",
+    "description": "Alabama driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Alaska",
+    "slug": "alaska",
+    "official_name": "Alaska Division of Motor Vehicles",
+    "official_url": "https://dmv.alaska.gov/",
+    "dmvverify_url": "https://dmvverify.com/alaska/",
+    "description": "Alaska driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Arizona",
+    "slug": "arizona",
+    "official_name": "Arizona Department of Transportation Motor Vehicle Division",
+    "official_url": "https://azdot.gov/mvd",
+    "dmvverify_url": "https://dmvverify.com/arizona/",
+    "description": "Arizona driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "official_name": "Arkansas Department of Finance and Administration",
+    "official_url": "https://www.dfa.arkansas.gov/",
+    "dmvverify_url": "https://dmvverify.com/arkansas/",
+    "description": "Arkansas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "California",
+    "slug": "california",
+    "official_name": "California DMV",
+    "official_url": "https://www.dmv.ca.gov/",
+    "dmvverify_url": "https://dmvverify.com/california/",
+    "description": "California driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Colorado",
+    "slug": "colorado",
+    "official_name": "Colorado Division of Motor Vehicles",
+    "official_url": "https://dmv.colorado.gov/",
+    "dmvverify_url": "https://dmvverify.com/colorado/",
+    "description": "Colorado driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "official_name": "Connecticut DMV",
+    "official_url": "https://portal.ct.gov/dmv",
+    "dmvverify_url": "https://dmvverify.com/connecticut/",
+    "description": "Connecticut driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Delaware",
+    "slug": "delaware",
+    "official_name": "Delaware Division of Motor Vehicles",
+    "official_url": "https://dmv.de.gov/",
+    "dmvverify_url": "https://dmvverify.com/delaware/",
+    "description": "Delaware driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "official_name": "Florida Highway Safety and Motor Vehicles",
+    "official_url": "https://www.flhsmv.gov/",
+    "dmvverify_url": "https://dmvverify.com/florida/",
+    "description": "Florida driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Georgia",
+    "slug": "georgia",
+    "official_name": "Georgia Department of Driver Services",
+    "official_url": "https://dds.georgia.gov/",
+    "dmvverify_url": "https://dmvverify.com/georgia/",
+    "description": "Georgia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "official_name": "Hawaii Driver Licensing",
+    "official_url": "https://hidot.hawaii.gov/highways/library/motor-vehicle-safety-office/",
+    "dmvverify_url": "https://dmvverify.com/hawaii/",
+    "description": "Hawaii driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "official_name": "Idaho Transportation Department DMV",
+    "official_url": "https://itd.idaho.gov/itddmv/",
+    "dmvverify_url": "https://dmvverify.com/idaho/",
+    "description": "Idaho driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Illinois",
+    "slug": "illinois",
+    "official_name": "Illinois Secretary of State",
+    "official_url": "https://www.ilsos.gov/",
+    "dmvverify_url": "https://dmvverify.com/illinois/",
+    "description": "Illinois driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "official_name": "Indiana Bureau of Motor Vehicles",
+    "official_url": "https://www.in.gov/bmv/",
+    "dmvverify_url": "https://dmvverify.com/indiana/",
+    "description": "Indiana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "official_name": "Iowa Department of Transportation",
+    "official_url": "https://iowadot.gov/mvd",
+    "dmvverify_url": "https://dmvverify.com/iowa/",
+    "description": "Iowa driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "official_name": "Kansas Department of Revenue Division of Vehicles",
+    "official_url": "https://www.ksrevenue.gov/dovindex.html",
+    "dmvverify_url": "https://dmvverify.com/kansas/",
+    "description": "Kansas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "official_name": "Kentucky Transportation Cabinet Driver Licensing",
+    "official_url": "https://drive.ky.gov/",
+    "dmvverify_url": "https://dmvverify.com/kentucky/",
+    "description": "Kentucky driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "official_name": "Louisiana Office of Motor Vehicles",
+    "official_url": "https://www.expresslane.org/",
+    "dmvverify_url": "https://dmvverify.com/louisiana/",
+    "description": "Louisiana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Maine",
+    "slug": "maine",
+    "official_name": "Maine Bureau of Motor Vehicles",
+    "official_url": "https://www.maine.gov/sos/bmv/",
+    "dmvverify_url": "https://dmvverify.com/maine/",
+    "description": "Maine driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Maryland",
+    "slug": "maryland",
+    "official_name": "Maryland Motor Vehicle Administration",
+    "official_url": "https://mva.maryland.gov/",
+    "dmvverify_url": "https://dmvverify.com/maryland/",
+    "description": "Maryland driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "official_name": "Massachusetts Registry of Motor Vehicles",
+    "official_url": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+    "dmvverify_url": "https://dmvverify.com/massachusetts/",
+    "description": "Massachusetts driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Michigan",
+    "slug": "michigan",
+    "official_name": "Michigan Secretary of State",
+    "official_url": "https://www.michigan.gov/sos",
+    "dmvverify_url": "https://dmvverify.com/michigan/",
+    "description": "Michigan driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "official_name": "Minnesota Driver and Vehicle Services",
+    "official_url": "https://dps.mn.gov/divisions/dvs",
+    "dmvverify_url": "https://dmvverify.com/minnesota/",
+    "description": "Minnesota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "official_name": "Mississippi Department of Public Safety",
+    "official_url": "https://www.dps.ms.gov/",
+    "dmvverify_url": "https://dmvverify.com/mississippi/",
+    "description": "Mississippi driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "official_name": "Missouri Department of Revenue Motor Vehicle and Driver Licensing",
+    "official_url": "https://dor.mo.gov/",
+    "dmvverify_url": "https://dmvverify.com/missouri/",
+    "description": "Missouri driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Montana",
+    "slug": "montana",
+    "official_name": "Montana Motor Vehicle Division",
+    "official_url": "https://dojmt.gov/driving/",
+    "dmvverify_url": "https://dmvverify.com/montana/",
+    "description": "Montana driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "official_name": "Nebraska Department of Motor Vehicles",
+    "official_url": "https://dmv.nebraska.gov/",
+    "dmvverify_url": "https://dmvverify.com/nebraska/",
+    "description": "Nebraska driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "official_name": "Nevada Department of Motor Vehicles",
+    "official_url": "https://dmv.nv.gov/",
+    "dmvverify_url": "https://dmvverify.com/nevada/",
+    "description": "Nevada driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Hampshire",
+    "slug": "new-hampshire",
+    "official_name": "New Hampshire Division of Motor Vehicles",
+    "official_url": "https://www.dmv.nh.gov/",
+    "dmvverify_url": "https://dmvverify.com/new-hampshire/",
+    "description": "New Hampshire driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Jersey",
+    "slug": "new-jersey",
+    "official_name": "New Jersey Motor Vehicle Commission",
+    "official_url": "https://www.nj.gov/mvc/",
+    "dmvverify_url": "https://dmvverify.com/new-jersey/",
+    "description": "New Jersey driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "official_name": "New Mexico Motor Vehicle Division",
+    "official_url": "https://www.mvd.newmexico.gov/",
+    "dmvverify_url": "https://dmvverify.com/new-mexico/",
+    "description": "New Mexico driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "New York",
+    "slug": "new-york",
+    "official_name": "New York DMV",
+    "official_url": "https://dmv.ny.gov/",
+    "dmvverify_url": "https://dmvverify.com/new-york/",
+    "description": "New York driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "official_name": "North Carolina Division of Motor Vehicles",
+    "official_url": "https://www.ncdot.gov/dmv/",
+    "dmvverify_url": "https://dmvverify.com/north-carolina/",
+    "description": "North Carolina driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "official_name": "North Dakota Department of Transportation",
+    "official_url": "https://www.dot.nd.gov/",
+    "dmvverify_url": "https://dmvverify.com/north-dakota/",
+    "description": "North Dakota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "official_name": "Ohio Bureau of Motor Vehicles",
+    "official_url": "https://www.bmv.ohio.gov/",
+    "dmvverify_url": "https://dmvverify.com/ohio/",
+    "description": "Ohio driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "official_name": "Service Oklahoma",
+    "official_url": "https://service.ok.gov/",
+    "dmvverify_url": "https://dmvverify.com/oklahoma/",
+    "description": "Oklahoma driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Oregon",
+    "slug": "oregon",
+    "official_name": "Oregon DMV",
+    "official_url": "https://www.oregon.gov/odot/dmv/",
+    "dmvverify_url": "https://dmvverify.com/oregon/",
+    "description": "Oregon driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "official_name": "Pennsylvania Department of Transportation Driver and Vehicle Services",
+    "official_url": "https://www.dmv.pa.gov/",
+    "dmvverify_url": "https://dmvverify.com/pennsylvania/",
+    "description": "Pennsylvania driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "official_name": "Rhode Island Division of Motor Vehicles",
+    "official_url": "https://dmv.ri.gov/",
+    "dmvverify_url": "https://dmvverify.com/rhode-island/",
+    "description": "Rhode Island driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "official_name": "South Carolina Department of Motor Vehicles",
+    "official_url": "https://www.scdmvonline.com/",
+    "dmvverify_url": "https://dmvverify.com/south-carolina/",
+    "description": "South Carolina driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "official_name": "South Dakota Driver Licensing",
+    "official_url": "https://dps.sd.gov/driver-licensing",
+    "dmvverify_url": "https://dmvverify.com/south-dakota/",
+    "description": "South Dakota driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "official_name": "Tennessee Driver Services",
+    "official_url": "https://www.tn.gov/safety/driver-services.html",
+    "dmvverify_url": "https://dmvverify.com/tennessee/",
+    "description": "Tennessee driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "official_name": "Texas Department of Public Safety",
+    "official_url": "https://www.dps.texas.gov/section/driver-license",
+    "dmvverify_url": "https://dmvverify.com/texas/",
+    "description": "Texas driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "official_name": "Utah Driver License Division",
+    "official_url": "https://dld.utah.gov/",
+    "dmvverify_url": "https://dmvverify.com/utah/",
+    "description": "Utah driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Vermont",
+    "slug": "vermont",
+    "official_name": "Vermont Department of Motor Vehicles",
+    "official_url": "https://dmv.vermont.gov/",
+    "dmvverify_url": "https://dmvverify.com/vermont/",
+    "description": "Vermont driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "official_name": "Virginia Department of Motor Vehicles",
+    "official_url": "https://www.dmv.virginia.gov/",
+    "dmvverify_url": "https://dmvverify.com/virginia/",
+    "description": "Virginia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Washington",
+    "slug": "washington",
+    "official_name": "Washington State Department of Licensing",
+    "official_url": "https://dol.wa.gov/",
+    "dmvverify_url": "https://dmvverify.com/washington/",
+    "description": "Washington driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "official_name": "West Virginia Division of Motor Vehicles",
+    "official_url": "https://transportation.wv.gov/DMV/",
+    "dmvverify_url": "https://dmvverify.com/west-virginia/",
+    "description": "West Virginia driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "official_name": "Wisconsin Division of Motor Vehicles",
+    "official_url": "https://wisconsindot.gov/Pages/dmv/",
+    "dmvverify_url": "https://dmvverify.com/wisconsin/",
+    "description": "Wisconsin driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "official_name": "Wyoming Department of Transportation Driver Services",
+    "official_url": "https://www.dot.state.wy.us/home/driver_license_records.html",
+    "dmvverify_url": "https://dmvverify.com/wyoming/",
+    "description": "Wyoming driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  },
+  {
+    "state": "Washington DC",
+    "slug": "washington-dc",
+    "official_name": "District of Columbia DMV",
+    "official_url": "https://dmv.dc.gov/",
+    "dmvverify_url": "https://dmvverify.com/washington-dc/",
+    "description": "Washington DC driver license renewal, REAL ID, replacement, registration, and official DMV resources."
+  }
+]
