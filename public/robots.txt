@@ -1,1 +1,3 @@
-User-agent: *\nAllow: /\nSitemap: https://dmv-cloud-hub.localmapdominanceseo.workers.dev/sitemap.xml\n
+User-agent: *
+Allow: /
+Sitemap: https://dmv-cloud-hub.localmapdominanceseo.workers.dev/sitemap.xml
