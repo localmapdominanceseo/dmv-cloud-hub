@@ -1,0 +1,416 @@
+[
+  {
+    "title": "Texas REAL ID Document Checklist for 2026",
+    "url": "/guides/texas-real-id-document-checklist-2026/",
+    "description": "A practical Texas REAL ID document checklist covering identity, Social Security, residency, name changes, and common mistakes.",
+    "type": "guide",
+    "state": "Texas",
+    "category": "real-id"
+  },
+  {
+    "title": "California Online Driver License Renewal Guide for 2026",
+    "url": "/guides/california-online-driver-license-renewal-2026/",
+    "description": "Who can renew a California driver license online, who may need an office visit, and how to avoid common renewal delays.",
+    "type": "guide",
+    "state": "California",
+    "category": "renewal"
+  },
+  {
+    "title": "Florida Driver License Renewal Fees Explained",
+    "url": "/guides/florida-driver-license-renewal-fees-explained/",
+    "description": "A plain-English explanation of Florida renewal fees, replacement situations, REAL ID updates, and possible service charges.",
+    "type": "guide",
+    "state": "Florida",
+    "category": "fees"
+  },
+  {
+    "title": "Utah Driver License Renewal Checklist",
+    "url": "/guides/utah-driver-license-renewal-checklist/",
+    "description": "A focused Utah renewal checklist for online renewal, office visits, address checks, and REAL ID preparation.",
+    "type": "guide",
+    "state": "Utah",
+    "category": "checklists"
+  },
+  {
+    "title": "Wyoming Lost License Replacement Guide",
+    "url": "/guides/wyoming-lost-license-replacement-guide/",
+    "description": "How Wyoming drivers can prepare to replace a lost, stolen, damaged, or never-received license.",
+    "type": "guide",
+    "state": "Wyoming",
+    "category": "replacement"
+  },
+  {
+    "title": "Arizona Vehicle Registration Renewal Guide",
+    "url": "/guides/arizona-vehicle-registration-renewal-guide/",
+    "description": "Arizona registration renewal options, emissions notes, timing, and official MVD resources.",
+    "type": "guide",
+    "state": "Arizona",
+    "category": "registration"
+  },
+  {
+    "title": "Alabama DMV Guide Hub",
+    "url": "/state/alabama/",
+    "description": "Alabama DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Alaska DMV Guide Hub",
+    "url": "/state/alaska/",
+    "description": "Alaska DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Arizona DMV Guide Hub",
+    "url": "/state/arizona/",
+    "description": "Arizona DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Arkansas DMV Guide Hub",
+    "url": "/state/arkansas/",
+    "description": "Arkansas DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "California DMV Guide Hub",
+    "url": "/state/california/",
+    "description": "California DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Colorado DMV Guide Hub",
+    "url": "/state/colorado/",
+    "description": "Colorado DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Connecticut DMV Guide Hub",
+    "url": "/state/connecticut/",
+    "description": "Connecticut DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Delaware DMV Guide Hub",
+    "url": "/state/delaware/",
+    "description": "Delaware DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Florida DMV Guide Hub",
+    "url": "/state/florida/",
+    "description": "Florida DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Georgia DMV Guide Hub",
+    "url": "/state/georgia/",
+    "description": "Georgia DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Hawaii DMV Guide Hub",
+    "url": "/state/hawaii/",
+    "description": "Hawaii DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Idaho DMV Guide Hub",
+    "url": "/state/idaho/",
+    "description": "Idaho DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Illinois DMV Guide Hub",
+    "url": "/state/illinois/",
+    "description": "Illinois DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Indiana DMV Guide Hub",
+    "url": "/state/indiana/",
+    "description": "Indiana DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Iowa DMV Guide Hub",
+    "url": "/state/iowa/",
+    "description": "Iowa DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Kansas DMV Guide Hub",
+    "url": "/state/kansas/",
+    "description": "Kansas DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Kentucky DMV Guide Hub",
+    "url": "/state/kentucky/",
+    "description": "Kentucky DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Louisiana DMV Guide Hub",
+    "url": "/state/louisiana/",
+    "description": "Louisiana DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Maine DMV Guide Hub",
+    "url": "/state/maine/",
+    "description": "Maine DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Maryland DMV Guide Hub",
+    "url": "/state/maryland/",
+    "description": "Maryland DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Massachusetts DMV Guide Hub",
+    "url": "/state/massachusetts/",
+    "description": "Massachusetts DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Michigan DMV Guide Hub",
+    "url": "/state/michigan/",
+    "description": "Michigan DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Minnesota DMV Guide Hub",
+    "url": "/state/minnesota/",
+    "description": "Minnesota DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Mississippi DMV Guide Hub",
+    "url": "/state/mississippi/",
+    "description": "Mississippi DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Missouri DMV Guide Hub",
+    "url": "/state/missouri/",
+    "description": "Missouri DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Montana DMV Guide Hub",
+    "url": "/state/montana/",
+    "description": "Montana DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Nebraska DMV Guide Hub",
+    "url": "/state/nebraska/",
+    "description": "Nebraska DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Nevada DMV Guide Hub",
+    "url": "/state/nevada/",
+    "description": "Nevada DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "New Hampshire DMV Guide Hub",
+    "url": "/state/new-hampshire/",
+    "description": "New Hampshire DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "New Jersey DMV Guide Hub",
+    "url": "/state/new-jersey/",
+    "description": "New Jersey DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "New Mexico DMV Guide Hub",
+    "url": "/state/new-mexico/",
+    "description": "New Mexico DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "New York DMV Guide Hub",
+    "url": "/state/new-york/",
+    "description": "New York DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "North Carolina DMV Guide Hub",
+    "url": "/state/north-carolina/",
+    "description": "North Carolina DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "North Dakota DMV Guide Hub",
+    "url": "/state/north-dakota/",
+    "description": "North Dakota DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Ohio DMV Guide Hub",
+    "url": "/state/ohio/",
+    "description": "Ohio DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Oklahoma DMV Guide Hub",
+    "url": "/state/oklahoma/",
+    "description": "Oklahoma DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Oregon DMV Guide Hub",
+    "url": "/state/oregon/",
+    "description": "Oregon DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Pennsylvania DMV Guide Hub",
+    "url": "/state/pennsylvania/",
+    "description": "Pennsylvania DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Rhode Island DMV Guide Hub",
+    "url": "/state/rhode-island/",
+    "description": "Rhode Island DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "South Carolina DMV Guide Hub",
+    "url": "/state/south-carolina/",
+    "description": "South Carolina DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "South Dakota DMV Guide Hub",
+    "url": "/state/south-dakota/",
+    "description": "South Dakota DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Tennessee DMV Guide Hub",
+    "url": "/state/tennessee/",
+    "description": "Tennessee DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Texas DMV Guide Hub",
+    "url": "/state/texas/",
+    "description": "Texas DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Utah DMV Guide Hub",
+    "url": "/state/utah/",
+    "description": "Utah DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Vermont DMV Guide Hub",
+    "url": "/state/vermont/",
+    "description": "Vermont DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Virginia DMV Guide Hub",
+    "url": "/state/virginia/",
+    "description": "Virginia DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Washington DMV Guide Hub",
+    "url": "/state/washington/",
+    "description": "Washington DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "West Virginia DMV Guide Hub",
+    "url": "/state/west-virginia/",
+    "description": "West Virginia DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Wisconsin DMV Guide Hub",
+    "url": "/state/wisconsin/",
+    "description": "Wisconsin DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Wyoming DMV Guide Hub",
+    "url": "/state/wyoming/",
+    "description": "Wyoming DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Washington DC DMV Guide Hub",
+    "url": "/state/washington-dc/",
+    "description": "Washington DC DMV renewal, REAL ID, replacement, documents, fees, registration, appointments, and official DMV resources.",
+    "type": "state"
+  },
+  {
+    "title": "Driver License Renewal",
+    "url": "/renewal/",
+    "description": "Online renewal, expired licenses, renewal notices, fees, documents, and processing times.",
+    "type": "category"
+  },
+  {
+    "title": "REAL ID",
+    "url": "/real-id/",
+    "description": "REAL ID requirements, documents, deadlines, state differences, and common mistakes.",
+    "type": "category"
+  },
+  {
+    "title": "License Replacement",
+    "url": "/replacement/",
+    "description": "Lost, stolen, damaged, or never-received driver license replacement guides.",
+    "type": "category"
+  },
+  {
+    "title": "Vehicle Registration",
+    "url": "/registration/",
+    "description": "Registration renewal, emissions, documents, fees, and official DMV links.",
+    "type": "category"
+  },
+  {
+    "title": "DMV Fees",
+    "url": "/fees/",
+    "description": "Renewal fees, replacement fees, REAL ID costs, and fee comparison resources.",
+    "type": "category"
+  },
+  {
+    "title": "DMV Appointments",
+    "url": "/appointments/",
+    "description": "Office visit preparation, appointment scheduling, and walk-in rules.",
+    "type": "category"
+  },
+  {
+    "title": "Required Documents",
+    "url": "/documents/",
+    "description": "Identity, residency, Social Security, name change, and REAL ID document lists.",
+    "type": "category"
+  },
+  {
+    "title": "DMV Checklists",
+    "url": "/checklists/",
+    "description": "Practical checklists before renewing, replacing, or visiting a DMV office.",
+    "type": "category"
+  },
+  {
+    "title": "Processing Times",
+    "url": "/processing-time/",
+    "description": "How long DMV transactions and mailed credentials usually take.",
+    "type": "category"
+  },
+  {
+    "title": "DMV FAQ",
+    "url": "/faq/",
+    "description": "Focused answers to common DMV questions.",
+    "type": "category"
+  }
+]

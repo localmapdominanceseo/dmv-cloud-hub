@@ -1,18 +1,9 @@
-# DMV Cloud Hub — Main Site Booster Build
-
-Goal: support and funnel qualified users to https://dmvverify.com while keeping the hub useful and safe.
+# DMV Cloud Hub v2
 
 Cloudflare Pages:
-- Build command: leave empty or `python generate.py`
+- Build command: `python generate.py`
 - Output directory: `public`
 
-Includes:
-- 51 state hub pages
-- 6 local guide pages
-- Official DMV links
-- Selected DMVVerify tool links
-- No WordPress links
-- Sitemap and robots.txt
+Main site: https://dmvverify.com
 
-Commit message:
-Main Site Booster Build
+Commit message: DMV Cloud Hub v2 production foundation
